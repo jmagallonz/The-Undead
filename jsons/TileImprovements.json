@@ -2,9 +2,9 @@
     {
 		"name": "Graveyard",
 		"uniqueTo": "The Undead",
-		"food": 0,
-		"gold": 0,
-		"production": 2,
+		"food": -1,
+		"gold": -1,
+		"production": 1,
 		"happiness": -1,
 		"turnsToBuild": 6,
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill","Tundra","Snow","Forest","Jungle","Fallout"],
